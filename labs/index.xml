@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Organic Chemistry and Molecular Materials Research Laboratory</title>
+    <link>https://miaogroupcuhk.github.io/labs/</link>
+    <description>Recent content in Labs on Organic Chemistry and Molecular Materials Research Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Apr 2024 21:00:00 +1000</lastBuildDate>
+    <atom:link href="https://miaogroupcuhk.github.io/labs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synthetic Lab</title>
+      <link>https://miaogroupcuhk.github.io/labs/synthetic-lab/</link>
+      <pubDate>Thu, 25 Apr 2024 21:00:00 +1000</pubDate>
+      <guid>https://miaogroupcuhk.github.io/labs/synthetic-lab/</guid>
+      <description>Location: Room 110, Run Run Shaw Science Building, CUHK Facilities Fume Hoods Solvent Purification System Glove Box Recycling Preparative GPC Photoreactor Cabinet Physical Vapor Transport System </description>
+    </item>
+    <item>
+      <title>Device Lab</title>
+      <link>https://miaogroupcuhk.github.io/labs/device-lab/</link>
+      <pubDate>Thu, 25 Apr 2024 21:00:00 +1000</pubDate>
+      <guid>https://miaogroupcuhk.github.io/labs/device-lab/</guid>
+      <description>Location: Room LG52A, Science Center South Block, CUHK Facilities Polarized-Light Microscope with Heating Stage High Vaccum Evaporator High Vacuum Probe Station Semiconductor Analyzer FT-IR Spin-Coater Plasma Cleaner </description>
+    </item>
+  </channel>
+</rss>
